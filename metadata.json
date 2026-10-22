@@ -1,0 +1,6 @@
+{
+  "name": "Oyo State Legislative Performance Tracker",
+  "description": "Civic accountability portal and legislative performance scorecard for the Oyo State House of Assembly with Liaison Officer backend and customizable performance metrics.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
